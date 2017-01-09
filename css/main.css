@@ -17,6 +17,30 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
+section {
+  background-color: #e2e2e2;
+}
+
+h1 {
+  margin: 0;
+}
+
+.img-flex {
+  width: 100%;
+}
+
+.btn {
+  border-radius: 4px;
+  background-color: #555;
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5em 0.75em;
+}
+
 @media only screen and (min-width: 25em) {
     html {
       font-size: 100%;
