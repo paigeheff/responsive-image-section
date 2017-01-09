@@ -31,15 +31,18 @@ h1 {
 
 .img-flex {
   width: 100%;
+  display: block;
 }
 
-.btn {
+a {
   border-radius: 4px;
   background-color: #555;
   color: #fff;
   text-decoration: none;
   padding: 0.5em 0.75em;
 }
+
+
 
 @media only screen and (min-width: 25em) {
     html {
